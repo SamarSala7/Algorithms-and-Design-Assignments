@@ -29,7 +29,7 @@ NOTES:
 Complexity
 The complexity of your algorithm should be less than O(N2)
 
-Find Index of Extra Element
+Find Index of Extra Element:
 Given two sorted arrays. There is only 1 difference between the arrays. First array has one element extra added in between.
 Design an efficient algorithm to find the index of the extra element.
 
