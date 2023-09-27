@@ -1,3 +1,5 @@
+# Algorithms-and-Design-Assignments. 4th year, Computer Science, Ain Shams University.
+
 Document Distance:
 Given: two documents D1 & D2
 Req.: Calculate distance between them d(D1, D2)? 
